@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mainLesson2",
+            "request": "launch",
+            "mainClass": "mainLesson2",
+            "projectName": "JavaCore_65e06e52"
+        },
+        {
+            "type": "java",
             "name": "Lesson1",
             "request": "launch",
             "mainClass": "Lesson1",
